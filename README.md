@@ -1,5 +1,5 @@
 
-### `What it is?`
+### `iNoteBook`
   #### Users can register and login
   #### Users can create notes with description and tag also can perform CRUD.
   #### Front End linked with backend 
