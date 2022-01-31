@@ -1,7 +1,7 @@
 
 ### `What it is?`
-  ###Users can register and login
-  ###Users can create notes with description and tag also can perform CRUD.
+  #### Users can register and login
+  ### Users can create notes with description and tag also can perform CRUD.
  ### Front End linked with backend 
   
 ### `Front End`
